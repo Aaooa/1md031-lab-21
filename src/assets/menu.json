@@ -1,0 +1,24 @@
+
+[
+  {
+    "name": "Fishburger",
+    "kCal": 500,
+    "lactose": true,
+    "gluten": false,
+    "img": "https://www.goodfood.com.au/content/dam/images/h/1/0/g/9/5/image.related.wideLandscape.940x529.h12rwe.png/1555556223263.jpg"
+  },
+  {
+    "name": "Cheeseburger",
+    "kCal": 500,
+    "lactose": true,
+    "gluten": false,
+    "img": "https://nerdist.com/wp-content/uploads/2018/08/bk-cheese-8152018-970-by-545.jpg"
+  },
+  {
+    "name": "Chickenburger",
+    "kCal": 300,
+    "lactose": false,
+    "gluten": true,
+    "img": "https://www.askideas.com/media/09/Funny-Chicken-Burger.jpg"
+  }
+]
